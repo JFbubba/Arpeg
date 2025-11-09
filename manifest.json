@@ -1,0 +1,16 @@
+{
+  "name": "Circular MIDI Arpeggiator",
+  "short_name": "MIDI Arp",
+  "description": "A circular MIDI step sequencer combined with a powerful arpeggiator to create complex melodic patterns.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

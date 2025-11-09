@@ -1,0 +1,5 @@
+{
+  "name": "Circular MIDI Arpeggiator",
+  "description": "A circular MIDI step sequencer combined with a powerful arpeggiator to create complex melodic patterns. Connect to any MIDI device and start composing.",
+  "requestFramePermissions": []
+}
